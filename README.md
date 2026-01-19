@@ -3,7 +3,7 @@
 ## 项目结构
 
 ```
-MCM_C/
+-MCM_C/
 ├── 2025_MCM_Problem_C.pdf      # 2025年MCM问题C的原始PDF文件
 ├── data/                        # 数据目录
 │   ├── data_dictionary.csv      # 数据字典
@@ -18,3 +18,5 @@ MCM_C/
 ├── todo.md                      # 待办事项清单
 └── README.md                    # 项目说明文档
 ```
+
+>进行测试式改动在各自分支下改动 test/name,不要直接提交在main分支
