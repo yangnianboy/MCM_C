@@ -1,0 +1,35 @@
+{
+  "Gold": {
+    "max_depth": 4.0,
+    "learning_rate": 0.04656634152459837,
+    "n_estimators": 450.0,
+    "subsample": 0.9292329818463066,
+    "colsample_bytree": 0.9629531263711768,
+    "reg_alpha": 0.6208239059537068,
+    "reg_lambda": 1.3318109074968598,
+    "min_child_weight": 2.0,
+    "gamma": 0.027908920464930043
+  },
+  "Silver": {
+    "max_depth": 4.0,
+    "learning_rate": 0.05153100028190818,
+    "n_estimators": 100.0,
+    "subsample": 0.975973530077076,
+    "colsample_bytree": 0.957735117959687,
+    "reg_alpha": 1.2043266123647884,
+    "reg_lambda": 0.7803736267514753,
+    "min_child_weight": 1.0,
+    "gamma": 0.11716286819259086
+  },
+  "Bronze": {
+    "max_depth": 7.0,
+    "learning_rate": 0.020859905807810244,
+    "n_estimators": 500.0,
+    "subsample": 0.6880809238842184,
+    "colsample_bytree": 0.8486294378212706,
+    "reg_alpha": 0.2926242683309921,
+    "reg_lambda": 2.163162809781514,
+    "min_child_weight": 2.0,
+    "gamma": 0.07565050499492737
+  }
+}
