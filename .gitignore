@@ -1,0 +1,24 @@
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+# LaTeX 中间文件
+*.aux
+*.log
+*.out
+*.glo
+*.hd
+*.idx
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# 从 dtx 生成的中间文件
+README.tex
+LICENSE.tex
+.vscode/c_cpp_properties.json
